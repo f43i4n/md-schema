@@ -1,0 +1,3 @@
+lxml
+markdown2
+cssselect
